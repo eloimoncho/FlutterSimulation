@@ -1,0 +1,16 @@
+// @ts-ignore
+{'waypoints': [
+        {'lat': 41.276379, 'lon': 1.989009, 'takePic': False, 'videoStart': False, 'videoStop': False, 'staticVideo': False
+        },
+        {'lat': 41.276512, 'lon': 1.988937, 'takePic': False, 'videoStart': False, 'videoStop': False, 'staticVideo': False
+        },
+        {'lat': 41.276432, 'lon': 1.988564, 'takePic': False, 'videoStart': False, 'videoStop': False, 'staticVideo': False
+        },
+        {'lat': 41.276331, 'lon': 1.988513, 'takePic': False, 'videoStart': False, 'videoStop': False, 'staticVideo': False
+        },
+        {'lat': 41.27633, 'lon': 1.988832, 'takePic': False, 'videoStart': False, 'videoStop': False, 'staticVideo': False
+        },
+        {'lat': 41.27638, 'lon': 1.988873, 'takePic': False, 'videoStart': False, 'videoStop': False, 'staticVideo': False
+        }
+    ], 'PicInterval': 0, 'VidInterval': 0
+}

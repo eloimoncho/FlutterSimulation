@@ -1,0 +1,30 @@
+Date : 2023-07-27 12:54:37
+Directory : c:\Users\alexp\OneDrive\Class\TFG\FlutterFrontEnd\my_app\lib
+Total : 6 files,  80 codes, 0 comments, -2 blanks, all 78 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |          6 |         80 |          0 |         -2 |         78 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                            | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                               |          6 |         80 |          0 |         -2 |         78 |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                        | language | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\alexp\OneDrive\Class\TFG\FlutterFrontEnd\my_app\lib\custom_drawer.dart | Dart     |         35 |          0 |          0 |         35 |
+| c:\Users\alexp\OneDrive\Class\TFG\FlutterFrontEnd\my_app\lib\main.dart          | Dart     |         24 |          3 |          0 |         27 |
+| c:\Users\alexp\OneDrive\Class\TFG\FlutterFrontEnd\my_app\lib\main_screen.dart   | Dart     |         36 |          0 |         -2 |         34 |
+| c:\Users\alexp\OneDrive\Class\TFG\FlutterFrontEnd\my_app\lib\past_flights.dart  | Dart     |          0 |         -1 |          0 |         -1 |
+| c:\Users\alexp\OneDrive\Class\TFG\FlutterFrontEnd\my_app\lib\select_flight.dart | Dart     |          0 |         -2 |          0 |         -2 |
+| c:\Users\alexp\OneDrive\Class\TFG\FlutterFrontEnd\my_app\lib\video_gallery.dart | Dart     |        -15 |          0 |          0 |        -15 |
+| Total                                                                           |          |         80 |          0 |         -2 |         78 |
++---------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

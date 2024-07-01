@@ -1,0 +1,4 @@
+enum NavigationOrigin {
+  selectFlights,
+  pastFlights,
+}
