@@ -28,9 +28,9 @@ The following modules are required for full functionality, or at least having co
 - Air APIREST [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-AirAPIREST-brightgreen.svg)](https://github.com/eloimoncho/AirAPIREST)
 - Ground APIREST [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-GroundAPIREST-brightgreen.svg)](https://github.com/eloimoncho/GroundAPIREST)
 - AutopilotService [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-AutopilotService-brightgreen.svg)](https://github.com/eloimoncho/AutopilotService)
-- CameraService [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-AutopilotService-brightgreen.svg)](https://github.com/eloimoncho/CameraService)
-- AirDataService [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-AutopilotService-brightgreen.svg)](https://github.com/eloimoncho/AirDataService)
-- GroundDataService [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-AutopilotService-brightgreen.svg)](https://github.com/eloimoncho/GroundDataService)
+- CameraService [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-CameraService-brightgreen.svg)](https://github.com/eloimoncho/CameraService)
+- AirDataService [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-AirDataService-brightgreen.svg)](https://github.com/eloimoncho/AirDataService)
+- GroundDataService [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-GroundDataService-brightgreen.svg)](https://github.com/eloimoncho/GroundDataService)
 
 ## Installation
 
