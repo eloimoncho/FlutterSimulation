@@ -25,13 +25,18 @@ Before starting with the installation, make sure you have the following software
 
 The following modules are required for full functionality, or at least having connection to them:
 
-- Air APIREST [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-AirAPIREST-brightgreen.svg)](https://github.com/dronsEETAC/AirAPIREST)
-- Ground APIREST [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-GroundAPIREST-brightgreen.svg)](https://github.com/dronsEETAC/GroundAPIREST)
-- AutopilotService [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-AutopilotService-brightgreen.svg)](https://github.com/dronsEETAC/autopilotService)
+- Air APIREST [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-AirAPIREST-brightgreen.svg)](https://github.com/eloimoncho/AirAPIREST)
+- Ground APIREST [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-GroundAPIREST-brightgreen.svg)](https://github.com/eloimoncho/GroundAPIREST)
+- AutopilotService [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-AutopilotService-brightgreen.svg)](https://github.com/eloimoncho/AutopilotService)
+- CameraService [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-AutopilotService-brightgreen.svg)](https://github.com/eloimoncho/CameraService)
+- AirDataService [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-AutopilotService-brightgreen.svg)](https://github.com/eloimoncho/AirDataService)
+- GroundDataService [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-AutopilotService-brightgreen.svg)](https://github.com/eloimoncho/GroundDataService)
 
 ## Installation
 
-For all the installation you can watch the first 20 minutes of this video [Flutter Tutorial For Beginners](https://www.youtube.com/watch?v=CD1Y2DmL5JM) if you're completely new to Flutter I recommend you watch it all and try to follow along.
+For all the installation you can watch the first 20 minutes of this video [Flutter Tutorial For Beginners](https://www.youtube.com/watch?v=CD1Y2DmL5JM) if you're completely new to Flutter I recommend you watch it all and try to follow along. 
+
+In addition, you shoud clone the repos of the modules needed and follow the instructions of their installation to perform the local simulation. 
 
 ## Getting Started
 
@@ -96,5 +101,17 @@ In the video:
 3. Using the Flutter application, all the flight plans collected in air backend can be seen, and one of them is selected for its execution.
 4. With the help of Mission Planner, the flight is followed over all its waypoints, taking the required images or videos when asked.
 5. When the flight has landed, and using functionality "Past flights" in Flutter application, data collected, and already saved in ground backend, can be seen and analyzed.
+
+In order to see a complete simulation in the local enviroment, the following demo performs the functionalities available. Note that it is a complementary video so to know how to create a flight plan with the Dashboard check the previous demo.
+_Link of the video_
+
+In the video: 
+1. Show the main page of the app
+2. Using the menu see the list of flight plans and perform a flight
+3. See the list of flights done and the results
+4. See the page for videostreaming and see an example
+
+In order to understand the code of the app and its modules better it is recommended to watch the following video:
+_Link of the video_
 
 
