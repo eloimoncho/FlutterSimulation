@@ -4,7 +4,7 @@ import 'dart:developer';
 import 'dart:typed_data';
 
 import 'package:flutter/material.dart';
-import 'package:frontend_flutter/MQTTClientManager.dart';
+import 'package:frontend_flutter/services/MQTTClientManager.dart';
 import 'package:frontend_flutter/custom_drawer.dart';
 
 // Importación de la clase de servicios de Websockets

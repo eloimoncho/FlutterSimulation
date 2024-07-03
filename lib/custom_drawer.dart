@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:frontend_flutter/pages/stream_video_page.dart';
-import 'select_flight.dart';
-import 'main_screen.dart';
-import 'past_flights.dart';
+import 'pages/select_flight.dart';
+import 'pages/main_screen.dart';
+import 'pages/past_flights.dart';
 
 class CustomDrawer extends StatelessWidget {
   const CustomDrawer({Key? key}) : super(key: key);
