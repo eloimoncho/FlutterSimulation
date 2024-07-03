@@ -32,6 +32,11 @@ The following modules are required for full functionality, or at least having co
 - AirDataService [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-AirDataService-brightgreen.svg)](https://github.com/eloimoncho/AirDataService)
 - GroundDataService [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-GroundDataService-brightgreen.svg)](https://github.com/eloimoncho/GroundDataService)
 
+Although not essential for the operation of the application, the Dashboard is necessary to create the flight plans.
+
+- Dashboard [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-Dashboard-brightgreen.svg)](https://github.com/eloimoncho/Dashboard)
+
+
 ## Installation
 
 For all the installation you can watch the first 20 minutes of this video [Flutter Tutorial For Beginners](https://www.youtube.com/watch?v=CD1Y2DmL5JM) if you're completely new to Flutter I recommend you watch it all and try to follow along. 
