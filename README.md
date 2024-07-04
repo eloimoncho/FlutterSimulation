@@ -117,7 +117,7 @@ In the video:
 4. See the page for videostreaming and see an example
 
 In order to understand the code of the app and its modules better it is recommended to watch the following video:
-[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-Demo_FlutterApp_local_simulation-pink.svg)](https://www.youtube.com/watch?v=jc6sYxKOXII_channel=DronsEETAC)
+[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-Code_FlutterApp_local_simulation-pink.svg)](https://www.youtube.com/watch?v=jc6sYxKOXII_channel=DronsEETAC)
 
 
 
