@@ -108,7 +108,7 @@ In the video:
 5. When the flight has landed, and using functionality "Past flights" in Flutter application, data collected, and already saved in ground backend, can be seen and analyzed.
 
 In order to see a complete simulation in the local enviroment, the following demo performs the functionalities available. Note that it is a complementary video so to know how to create a flight plan with the Dashboard check the previous demo.
-_Link of the video_
+[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-Demo_FlutterApp_local_simulation-pink.svg)](https://www.youtube.com/watch?v=gnDYvqjrAIM_channel=DronsEETAC)
 
 In the video: 
 1. Show the main page of the app
@@ -117,6 +117,7 @@ In the video:
 4. See the page for videostreaming and see an example
 
 In order to understand the code of the app and its modules better it is recommended to watch the following video:
-_Link of the video_
+[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-Demo_FlutterApp_local_simulation-pink.svg)](https://www.youtube.com/watch?v=jc6sYxKOXII_channel=DronsEETAC)
+
 
 
